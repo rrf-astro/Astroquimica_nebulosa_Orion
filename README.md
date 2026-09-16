@@ -8,7 +8,7 @@ Brasília), com finalidade **didática**: cada etapa do notebook é comentada pa
 estudantes de licenciatura (Química, Física, Ciências) possam reproduzir e adaptar a
 análise.
 
-**Autores:** Thayllan Anthony de Oliveira · Rafael Ramon Ferreira
+**Autores:** Thayllan Anthony de Oliveira et al.
 **Instituição:** Instituto Federal do Triângulo Mineiro (IFTM)
 
 ---
