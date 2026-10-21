@@ -3,3 +3,4 @@ pandas>=2.0
 matplotlib>=3.7
 astropy>=6.0
 astroquery>=0.4.7
+scipy>=1.10

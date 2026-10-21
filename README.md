@@ -8,7 +8,7 @@ Brasília), com finalidade **didática**: cada etapa do notebook é comentada pa
 estudantes de licenciatura (Química, Física, Ciências) possam reproduzir e adaptar a
 análise.
 
-**Autores:** Thayllan Anthony de Oliveira et al.
+**Autores:** Thayllan Anthony de Oliveira · Rafael Ramon Ferreira
 **Instituição:** Instituto Federal do Triângulo Mineiro (IFTM)
 
 ---
@@ -60,6 +60,11 @@ jupyter notebook Espectro_OMC-1.ipynb
 Cubo público do ALMA:
 `OMC-1_Region5_sci.spw18.cube.I.pbcor.fits`, baixado do
 [ALMA Science Archive](https://almascience.eso.org/).
+
+Projeto ALMA **2017.1.01353.S** (PI: S. Takahashi, *Fragmentation in the Orion Integral
+Shaped Filament*), identificador `uid://A001/X1292/X14a`, dados públicos desde 07/11/2019.
+Ao reutilizar os dados, inclua o agradecimento padrão do ALMA
+(`ADS/JAO.ALMA#2017.1.01353.S`).
 
 ## Licença
 
