@@ -1,5 +1,7 @@
-Molécula identificada;Frequência observada (GHz);Frequência de repouso (MHz);Energia Eu/k (K)
-Metanol deuterado (CH3OD);~232.41;232400.31;382.13
-Ácido acético (CH3COOH);~232.94;232940.37;284.22
-Glicolaldeído isotópico (13CH2OHCHO)*;~234.01;233999.99;45.23
-Ácido monotiofórmico (t-HC(O)SH)*;~234.01;233999.98;290.26
+Molécula candidata;Frequência observada (GHz);Frequência de repouso (MHz);Energia Eu/k (K);v_LSR (km/s)
+Metanol (CH3OH);~232.41;232418.52;165.4;6.86
+Metanol (CH3OH);~232.94;232945.8;190.37;7.33
+Etanol (C2H5OH);~233.57;233571.05;107.87;6.87
+Formiato de metila (CH3OCHO);~233.77;233777.52;114.36;7.34
+Metanol-13C (13CH3OH)*;~234.01;234011.58;48.25;6.89
+Formiato de metila (CH3OCHO)*;~234.01;234011.89;134.01;7.29
