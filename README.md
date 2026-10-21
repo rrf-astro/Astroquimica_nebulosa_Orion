@@ -34,6 +34,7 @@ aula e iniciação científica.
 .
 ├── Espectro_OMC-1.ipynb   # notebook principal, comentado
 ├── README.md              # este arquivo
+├── LICENSE                # licença MIT
 ├── requirements.txt       # dependências
 └── figuras/               # figuras geradas pelo notebook (.png e .pdf)
 ```
@@ -69,4 +70,7 @@ Ao reutilizar os dados, inclua o agradecimento padrão do ALMA
 
 ## Licença
 
-Uso educacional e acadêmico. Ao reutilizar, cite o artigo correspondente.
+O código e o notebook são distribuídos sob a licença MIT (ver `LICENSE`). Ao reutilizar,
+cite o artigo correspondente. Os dados do ALMA (projeto 2017.1.01353.S) e a imagem da
+Figura 1 (adaptada de Placinta et al.) têm origem em terceiros e não são cobertos por
+esta licença.
