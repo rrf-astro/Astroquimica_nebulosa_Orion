@@ -20,7 +20,8 @@ Partindo do cubo FITS do ALMA, o notebook `Espectro_OMC-1.ipynb`:
 1. Baixa e carrega o cubo de dados tridimensional (2 eixos espaciais + 1 de frequência).
 2. Mapeia a nuvem e localiza o pixel de emissão máxima (a "Região 5").
 3. Extrai o espectro de rádio nesse pixel.
-4. Identifica as moléculas (*Line ID*) consultando os catálogos JPL e CDMS via Splatalogue.
+4. Identifica as moléculas candidatas (*Line ID*): converte cada pico na frequência de repouso
+   esperada para v_LSR = +7 km/s (efeito Doppler) e consulta os catálogos JPL e CDMS via Splatalogue.
 5. Aplica um filtro físico (energia do nível superior, `Eu/k < 500 K`).
 6. Converte a posição do pixel em coordenadas celestes (RA/Dec).
 
